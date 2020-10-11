@@ -7,6 +7,7 @@
 ## 文献资料汇总
 
 1. https://github.com/Eatzhy/surface-defect-detection
+2. 综述：机器视觉表面缺陷检测综述  
 
 ## 缺陷检测工具箱
 
