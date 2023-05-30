@@ -1,9 +1,5 @@
 # awesome defect detection
 
-> 作者：Tom Hardy
->
-> 来源：[公众号: 3D视觉工坊](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247484684&idx=1&sn=e812540aee03a4fc54e44d5555ccb843&chksm=fbff2e38cc88a72e180f0f6b0f7b906dd616e7d71fffb9205d529f1238e8ef0f0c5554c27dd7&token=691734513&lang=zh_CN#rd)
-
 ## 文献资料汇总
 
 1. https://github.com/Eatzhy/surface-defect-detection
